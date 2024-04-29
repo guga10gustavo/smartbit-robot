@@ -1,0 +1,79 @@
+{
+    "create":{
+        "account":{
+            "name":"Frederico",
+            "email":"frederico@frederico.com",
+            "cpf":"97650549046"
+        },
+        "plan":{
+            "name":"Plano Black",
+            "id":"2",
+            "price":79.99
+        },
+        "credit_card":{
+            "number":"4242424242424242", 
+            "holder":"Frederico",
+            "month":"12",
+            "year":"2030",
+            "cvv":"123"
+        }
+    },
+    "duplicated":{
+        "account":{
+            "name":"Albert",
+            "email":"albert@albert.com",
+            "cpf":"32847467068"
+        },
+        "plan":{
+            "name":"Plano Smart",
+            "id":"1",
+            "price":99.99
+        },
+        "credit_card":{
+            "number":"4242424242424242", 
+            "holder":"Albert",
+            "month":"12",
+            "year":"2030",
+            "cvv":"123"
+        }
+    },
+    "search":{
+        "account":{
+            "name":"Isaac",
+            "email":"isaac@isaac.com",
+            "cpf":"16761516056"
+        },
+        "plan":{
+            "name":"Plano Smart",
+            "id":"1",
+            "price":99.99
+        },
+        "credit_card":{
+            "number":"4242424242424242", 
+            "holder":"Isaac",
+            "month":"12",
+            "year":"2030",
+            "cvv":"123"
+        }
+    },
+    "remove":{
+        "account":{
+            "name":"Strange",
+            "email":"strange@dr.com",
+            "cpf":"16761516056"
+        },
+        "plan":{
+            "name":"Plano Smart",
+            "id":"1",
+            "price":99.99
+        },
+        "credit_card":{
+            "number":"4242424242424242", 
+            "holder":"Strange",
+            "month":"12",
+            "year":"2030",
+            "cvv":"123"
+        }
+    }
+
+}

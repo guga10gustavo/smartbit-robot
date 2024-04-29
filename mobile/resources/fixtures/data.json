@@ -1,0 +1,42 @@
+{
+    "login":{
+        "account":{
+            "name":"Frederico Fred",
+            "email":"fredericofres@frederico.com",
+            "cpf":"79143573088"
+        },
+        "plan":{
+            "name":"Plano Black",
+            "id":"2",
+            "price":79.99
+        },
+        "credit_card":{
+            "number":"4242424242424242", 
+            "holder":"Frederico Fred",
+            "month":"12",
+            "year":"2030",
+            "cvv":"123"
+        }
+    },
+    "update":{
+        "account":{
+            "name":"Black Panter",
+            "email":"blackpanter@marvel.com",
+            "cpf":"01226056083",
+            "weight":80,
+            "height":190
+        },
+        "plan":{
+            "name":"Plano Black",
+            "id":"2",
+            "price":79.99
+        },
+        "credit_card":{
+            "number":"4242424242424242", 
+            "holder":"Black Panter",
+            "month":"12",
+            "year":"2030",
+            "cvv":"123"
+        }
+    }
+}
